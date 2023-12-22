@@ -1,0 +1,48 @@
+[submodule "src/examples"]
+	path = src/examples
+	url = https://github.com/ros2/examples.git
+	branch = humble
+[submodule "src/ros2_control_demos"]
+	path = src/ros2_control_demos
+	url = https://github.com/ros-controls/ros2_control_demos
+	branch = humble
+[submodule "src/control_msgs"]
+	path = src/control_msgs
+	url = https://github.com/ros-controls/control_msgs.git
+	branch = humble
+[submodule "src/realtime_tools"]
+	path = src/realtime_tools
+	url = https://github.com/ros-controls/realtime_tools.git
+	branch = master
+[submodule "src/ros2_control"]
+	path = src/ros2_control
+	url = https://github.com/ros-controls/ros2_control.git
+	branch = humble
+[submodule "src/ros2_controllers"]
+	path = src/ros2_controllers
+	url = https://github.com/ros-controls/ros2_controllers.git
+	branch = humble
+[submodule "src/gazebo_ros2_control"]
+	path = src/gazebo_ros2_control
+	url = https://github.com/ros-controls/gazebo_ros2_control.git
+	branch = humble
+[submodule "src/ros-controls/ros2_control"]
+	path = src/ros-controls/ros2_control
+	url = https://github.com/ros-controls/ros2_control.git
+	branch = foxy
+[submodule "src/generate_parameter_library"]
+	path = src/generate_parameter_library
+	url = https://github.com/picknikrobotics/generate_parameter_library.git
+	branch = main
+[submodule "src/control_toolbox"]
+	path = src/control_toolbox
+	url = https://github.com/ros-controls/control_toolbox.git
+	branch = ros2-master
+[submodule "src/kinematics_interface"]
+	path = src/kinematics_interface
+	url = https://github.com/ros-controls/kinematics_interface.git
+	branch = master
+[submodule "src/angles"]
+	path = src/angles
+	url = https://github.com/ros/angles.git
+	branch = ros2
