@@ -1,5 +1,6 @@
 build/*
 install/*
 src/*
+!src/ros2.repos
 log/*
 site/*
