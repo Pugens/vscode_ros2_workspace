@@ -71,5 +71,4 @@
         ".vscode-insiders",
         ".devcontainer/devcontainer.json"
     ],
-    "ros.distro": "humble",
 }

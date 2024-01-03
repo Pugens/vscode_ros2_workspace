@@ -1,0 +1,71 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../src/examples"
+		},
+		{
+			"path": "../src/ros2_control_demos"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.repos": "yaml",
+			"*.world": "xml",
+			"*.xacro": "xml"
+		},
+		"ros.distro": "humble",
+		"python.autoComplete.extraPaths": [
+			"/workspaces/ros2_examples_dc/build/launch_testing_examples",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_pointcloud_publisher",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_minimal_subscriber",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_minimal_service",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_minimal_publisher",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_minimal_client",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_minimal_action_server",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_minimal_action_client",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_guard_conditions",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_executors",
+			"/workspaces/ros2_examples_dc/install/lib/python3.10/site-packages",
+			"/opt/ros/humble/local/lib/python3.10/dist-packages",
+			"/opt/ros/humble/lib/python3.10/site-packages"
+		],
+		"python.analysis.extraPaths": [
+			"/workspaces/ros2_examples_dc/build/launch_testing_examples",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_pointcloud_publisher",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_minimal_subscriber",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_minimal_service",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_minimal_publisher",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_minimal_client",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_minimal_action_server",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_minimal_action_client",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_guard_conditions",
+			"/workspaces/ros2_examples_dc/build/examples_rclpy_executors",
+			"/workspaces/ros2_examples_dc/install/lib/python3.10/site-packages",
+			"/opt/ros/humble/local/lib/python3.10/dist-packages",
+			"/opt/ros/humble/lib/python3.10/site-packages"
+		],
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#aceecc",
+			"activityBar.background": "#aceecc",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#ae7be4",
+			"activityBarBadge.foreground": "#15202b",
+			"commandCenter.border": "#15202b99",
+			"sash.hoverBorder": "#aceecc",
+			"statusBar.background": "#82e5b2",
+			"statusBar.foreground": "#15202b",
+			"statusBarItem.hoverBackground": "#58dc98",
+			"statusBarItem.remoteBackground": "#82e5b2",
+			"statusBarItem.remoteForeground": "#15202b",
+			"titleBar.activeBackground": "#82e5b2",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.inactiveBackground": "#82e5b299",
+			"titleBar.inactiveForeground": "#15202b99"
+		},
+		"peacock.remoteColor": "#82e5b2"
+	}
+}
